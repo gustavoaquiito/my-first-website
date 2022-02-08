@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+li {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+p {
+    line-height: 1.9rem;
+}
+
+.container-s {
+    padding: 20px;
+}
+
+.credito {
+    display: inline-block;
+    width: 95%;
+    text-align: right;
+}

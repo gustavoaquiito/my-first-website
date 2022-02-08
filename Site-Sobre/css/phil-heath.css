@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+li {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+p {
+    line-height: 1.6rem;
+}
+
+
+.container-s {
+    padding: 20px 20px 0px 20px;
+}
+
+
+.container-s p + p {
+    margin-top: 20px;
+}
+
+.credito {
+    display: inline-block;
+    width: 95%;
+    text-align: right;
+}
